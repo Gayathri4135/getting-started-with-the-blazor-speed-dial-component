@@ -15,10 +15,19 @@ This sample demonstrates how to integrate the [Syncfusion Blazor Speed Dial](htt
 
 ## Prerequisites
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or [Visual Studio Code](https://code.visualstudio.com/)
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet) compatible with the project's target framework
 
 ## How to Run the Project
+
+**Visual Studio 2022**
+
+1. Clone this repository.
+2. Open the repository folder in Visual Studio 2022.
+3. Restore NuGet packages.
+4. Set the Blazor WebAssembly project as the startup project if required.
+5. Build the project.
+6. Run the application using **Ctrl+F5**.
 
 **Visual Studio Code**
 
