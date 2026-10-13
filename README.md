@@ -44,13 +44,13 @@ dotnet run
 
 ## Project Structure
 
-`Pages/Index.razor` — Contains the primary Syncfusion Speed Dial sample implementation, including action item configuration, icon customization, CSS styling, and position settings.
+- `Pages/Index.razor` — Contains the primary Syncfusion Speed Dial sample implementation, including action item configuration, icon customization, CSS styling, and position settings.
 
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- For implementation details, see the https://blazor.syncfusion.com/documentation/speeddial/getting-started.
+- For implementation details, see the [relevant official Syncfusion documentation](https://blazor.syncfusion.com/documentation/speeddial/getting-started).
 
 ## License
 
